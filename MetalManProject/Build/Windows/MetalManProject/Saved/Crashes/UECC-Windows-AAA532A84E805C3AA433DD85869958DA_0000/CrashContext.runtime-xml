@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>5DBB19614E41AC6EFF5E0391A37FD8B0</ExecutionGuid>
+<CrashGUID>UECC-Windows-AAA532A84E805C3AA433DD85869958DA_0000</CrashGUID>
+<IsEnsure>true</IsEnsure>
+<IsStall>false</IsStall>
+<IsAssert>false</IsAssert>
+<CrashType>Ensure</CrashType>
+<ErrorMessage>Ensure condition failed: CurrentNum == InitialNum  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Containers\Array.h] [Line: 256] 
+Array has changed during ranged-for iteration!
+Stack: 
+0x00007ff75f405275 MetalManProject.exe!FIoDispatcherImpl::ProcessCompletedRequests() []
+0x00007ff75f41b8f7 MetalManProject.exe!FIoDispatcherImpl::Run() []
+0x00007ff75f77e9d2 MetalManProject.exe!FRunnableThreadWin::Run() []
+0x00007ff75f772427 MetalManProject.exe!FRunnableThreadWin::GuardedRun() []
+0x00007ff8a2a2257d KERNEL32.DLL!UnknownFunction []
+0x00007ff8a2feaf28 ntdll.dll!UnknownFunction []
+</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<AttendedStatus>Attended</AttendedStatus>
+<ProcessId>2784</ProcessId>
+<SecondsSinceStart>0</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsWithDebugInfo>false</IsWithDebugInfo>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE-MetalManProject</GameName>
+<ExecutableName>MetalManProject</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<PlatformName>Windows</PlatformName>
+<PlatformFullName>Windows</PlatformFullName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>5.3.2-29314046+++UE5+Release-5.3</EngineVersion>
+<EngineCompatibleVersion>5.3.2-29314046+++UE5+Release-5.3</EngineCompatibleVersion>
+<CommandLine> MetalManProject</CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>es-MX</AppDefaultLocale>
+<BuildVersion>++UE5+Release-5.3-CL-29314046</BuildVersion>
+<Symbols>**UE5*Release-5.3-CL-29314046-Win64-Development</Symbols>
+<IsUERelease>false</IsUERelease>
+<IsRequestingExit>false</IsRequestingExit>
+<UserName></UserName>
+<BaseDir>C:/Users/jhony/Desktop/GitHub/ElecManUnreal/MetalManProject/Build/Windows/MetalManProject/Binaries/Win64/</BaseDir>
+<RootDir>C:/Users/jhony/Desktop/GitHub/ElecManUnreal/MetalManProject/Build/Windows/</RootDir>
+<MachineId>9EE9C0EB43421FE50227609880005980</MachineId>
+<LoginId>9ee9c0eb43421fe50227609880005980</LoginId>
+<EpicAccountId>33fc4b4e7c8341389500284b0076651f</EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName></GameStateName>
+<Misc.NumberOfCores>12</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>16</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>12th Gen Intel(R) Core(TM) i5-12500H</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>Intel(R) Iris(R) Xe Graphics</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 11 (23H2) [10.0.22631.4169]</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>16826417152</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>32395673600</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>5297733632</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>17125449728</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>568463360</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>580386816</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>739962880</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>739962880</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>7</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+
+MetalManProject  0x00007ff75e530000 + ed5275          
+MetalManProject  0x00007ff75e530000 + eeb8f7          
+MetalManProject  0x00007ff75e530000 + 124e9d2         
+MetalManProject  0x00007ff75e530000 + 1242427         
+KERNEL32         0x00007ff8a2a10000 + 1257d           
+</PCallStack>
+<PCallStackHash>3DCF334DDDAB1E760E67BC8A68C48144C37CE257</PCallStackHash>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<IsRunningOnBattery>true</IsRunningOnBattery>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+<CrashTrigger>0</CrashTrigger>
+</PlatformProperties>
+<EngineData>
+<MatchingDPStatus>WindowsNo errors</MatchingDPStatus>
+<RHI.IntegratedGPU>false</RHI.IntegratedGPU>
+<RHI.DriverDenylisted>false</RHI.DriverDenylisted>
+<RHI.D3DDebug>false</RHI.D3DDebug>
+<RHI.Breadcrumbs>true</RHI.Breadcrumbs>
+<RHI.DRED>false</RHI.DRED>
+<RHI.DREDMarkersOnly>true</RHI.DREDMarkersOnly>
+<RHI.DREDContext>false</RHI.DREDContext>
+<RHI.Aftermath>true</RHI.Aftermath>
+<RHI.RHIName>D3D12</RHI.RHIName>
+<RHI.AdapterName>NVIDIA GeForce RTX 4060 Laptop GPU</RHI.AdapterName>
+<RHI.UserDriverVersion>561.09</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>32.0.15.6109</RHI.InternalDriverVersion>
+<RHI.DriverDate>9-5-2024</RHI.DriverDate>
+<RHI.FeatureLevel>SM6</RHI.FeatureLevel>
+<RHI.GPUVendor>NVIDIA</RHI.GPUVendor>
+<RHI.DeviceId>28A0</RHI.DeviceId>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>

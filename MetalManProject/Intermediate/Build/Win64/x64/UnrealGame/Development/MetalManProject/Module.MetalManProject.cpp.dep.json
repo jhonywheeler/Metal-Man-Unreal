@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jhony\\desktop\\github\\elecmanunreal\\metalmanproject\\intermediate\\build\\win64\\x64\\unrealgame\\development\\metalmanproject\\module.metalmanproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jhony\\desktop\\github\\elecmanunreal\\metalmanproject\\intermediate\\build\\win64\\x64\\metalmanproject\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\jhony\\desktop\\github\\elecmanunreal\\metalmanproject\\intermediate\\build\\win64\\x64\\unrealgame\\development\\metalmanproject\\definitions.metalmanproject.h",
+            "c:\\users\\jhony\\desktop\\github\\elecmanunreal\\metalmanproject\\intermediate\\source\\metalmanproject.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

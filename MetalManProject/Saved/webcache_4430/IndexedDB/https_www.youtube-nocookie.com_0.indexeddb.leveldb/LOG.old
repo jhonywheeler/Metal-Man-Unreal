@@ -1,0 +1,8 @@
+2024/10/03-18:57:45.332 57d8 Reusing MANIFEST C:/Users/jhony/Desktop/GitHub/ElecManUnreal/MetalManProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/03-18:57:45.333 57d8 Recovering log #4
+2024/10/03-18:57:45.333 57d8 Reusing old log C:/Users/jhony/Desktop/GitHub/ElecManUnreal/MetalManProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/10/03-18:58:06.908 5860 Level-0 table #8: started
+2024/10/03-18:58:06.909 5860 Level-0 table #8: 0 bytes OK
+2024/10/03-18:58:06.910 5860 Delete type=0 #4
+2024/10/03-18:58:06.911 5860 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/10/03-18:58:06.911 5860 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MetalManProject.cpp.obj": [
+			"MetalManProject.cpp.obj"
+		]
+	}
+}

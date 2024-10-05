@@ -1,0 +1,15 @@
+2024/10/03-18:58:08.095 4e0c Reusing MANIFEST C:/Users/jhony/Desktop/GitHub/ElecManUnreal/MetalManProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/03-18:58:08.095 4e0c Recovering log #7
+2024/10/03-18:58:08.095 4e0c Reusing old log C:/Users/jhony/Desktop/GitHub/ElecManUnreal/MetalManProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2024/10/03-21:26:53.879 3798 Level-0 table #11: started
+2024/10/03-21:26:53.885 3798 Level-0 table #11: 190 bytes OK
+2024/10/03-21:26:53.887 3798 Delete type=0 #7
+2024/10/03-21:26:53.887 3798 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/10/03-21:26:53.888 3798 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2024/10/03-21:26:53.888 3798 Compacting 1@1 + 1@2 files
+2024/10/03-21:26:53.896 3798 Generated table #12@1: 18 keys, 534 bytes
+2024/10/03-21:26:53.896 3798 Compacted 1@1 + 1@2 files => 534 bytes
+2024/10/03-21:26:53.897 3798 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/03-21:26:53.897 3798 Delete type=2 #5
+2024/10/03-21:26:53.897 3798 Delete type=2 #11
+2024/10/03-21:26:53.898 3798 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)

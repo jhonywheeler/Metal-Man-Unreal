@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\jhony\\Desktop\\GitHub\\ElecManUnreal\\MetalManProject\\Intermediate\\Source\\MetalManProject.Build.cs",
+		"C:\\Users\\jhony\\Desktop\\GitHub\\ElecManUnreal\\MetalManProject\\Intermediate\\Source\\MetalManProject.Target.cs",
+		"C:\\Users\\jhony\\Desktop\\GitHub\\ElecManUnreal\\MetalManProject\\Intermediate\\Source\\MetalManProjectClient.Target.cs",
+		"C:\\Users\\jhony\\Desktop\\GitHub\\ElecManUnreal\\MetalManProject\\Intermediate\\Source\\MetalManProjectEditor.Target.cs",
+		"C:\\Users\\jhony\\Desktop\\GitHub\\ElecManUnreal\\MetalManProject\\Intermediate\\Source\\MetalManProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
